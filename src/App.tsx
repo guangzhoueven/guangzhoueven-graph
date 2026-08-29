@@ -38,7 +38,7 @@ function App() {
     language:
       localStorage.getItem("language") !== null
         ? (localStorage.getItem("language")! as "en" | "cn")
-        : "en",
+        : "zh",
     drawMode: "node",
     expandedCanvas: false,
     markBorder: "double",
