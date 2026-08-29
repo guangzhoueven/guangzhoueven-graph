@@ -14,5 +14,5 @@ export default defineConfig({
       },
     }),
   ],
-  base: "/another_graph_editor/",
+  base: "/",
 });
