@@ -222,7 +222,7 @@ let inErase = false;
 let rainbowHue = 0;
 
 let settings: Settings = {
-  language: "zh",
+  language: "cn",
   drawMode: "node",
   expandedCanvas: false,
   markBorder: "double",
